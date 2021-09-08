@@ -1,9 +1,9 @@
 package com.company;
 
 public class Main {
-                                                //Steps:
+                                                //Program steps:
     public static void main(String[] args) {    //1
-        // Think Java - Exercise 4.3 (2)
+        //Think Java - Exercise 4.3 (Opg. 1,2)
         System.out.print("No, I ");             //2
         zoop();                                 //3
         System.out.print("I ");                 //23
@@ -26,6 +26,7 @@ public class Main {
     }                                           //11 //20 //30
 }                                               //33
 
+                                                //Opg. 2.
                                                 //Out put er:
                                                 //No, I wug.
                                                 //You wugga wug.
